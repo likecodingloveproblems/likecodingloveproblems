@@ -15,6 +15,5 @@ I am also a junior Go developer with a passion for learning new technologies and
 
 ## Contact
 
-* [Email](mailto:mamehdizadeh@gmail.com)
+* [mamehdizadeh@gmail.com](mailto:mamehdizadeh@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/mohammad-ali-mehdizadeh-277140144/)
-* [GitHub](https://github.com/likecodingloveproblems)
