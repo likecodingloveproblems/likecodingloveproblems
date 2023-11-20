@@ -1,6 +1,19 @@
-### Hi there 👋
+# Backend Software Engineer
 
-- 🔭 I’m currently working on [Geotechnical Engineering](https://github.com/GeotechnicalEngineering)
-- 🌱 I’m currently learning Software Architecture, scalable and reliable systems.
-- 👯 I’m looking to collaborate on Big Scale Projects with a culture to invite learning and solving new challenges.
-- 📫 How to reach me: mamehdizadeh.official@gmail.com
+Welcome to my GitHub profile! I am a Backend Software Engineer with experience in Python and Go. I have over 4 years of experience building and maintaining scalable, high-performance backend systems with a strong foundation in Python and Django.
+I am also a junior Go developer with a passion for learning new technologies and complex business problems.
+
+## Skills
+
+* Python
+* Django
+* DRF
+* Docker
+* SQL
+* Prometheus
+
+## Contact
+
+* [Email](mailto:mamehdizadeh@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/mohammad-ali-mehdizadeh-277140144/)
+* [GitHub](https://github.com/likecodingloveproblems)
