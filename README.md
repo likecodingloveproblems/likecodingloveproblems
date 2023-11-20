@@ -11,6 +11,7 @@ I am also a junior Go developer with a passion for learning new technologies and
 * Docker
 * SQL
 * Prometheus
+* Go
 
 ## Contact
 
